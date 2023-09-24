@@ -1,24 +1,3 @@
-# README
+# Chococino
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Documentation Related : https://docs.google.com/document/d/1s8v-xU1T0bElbDkftSFe9c9C8oyL9lKtkPoaJmIFaSw/edit?usp=sharing
